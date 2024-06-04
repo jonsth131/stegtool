@@ -1,0 +1,12 @@
+{
+  "name": "stegtool",
+  "module": "src/index.ts",
+  "type": "module",
+  "entrypoint": "src/index.ts",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
